@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Auto Headshot</string>
+
+    <string name="drawerClose">drawerClose</string>
+    <string name="drawerOpen">drawerOpen</string>
+
+
+    <string name="supported_email">akash@gmail.com</string>
+    <string name="privacy_policy">https://appct3.blogspot.com/2022/11/raistar-voice-changer.html</string>
+
+
+    <!--    Applovin Ads-->
+    <string name="inter">05423ad43267556b</string>
+    <string name="netive">a1f042f86e38620c</string>
+    <string name="ApplovinSdk">_AZ7TkTRuqMRADHmrKfZNtw0vJFSzcfDgSsV5voTGrXU5rAlC4XFt6RPV7DSuMPh-hJ1Gwe6rwtLQw1PnkyfeI</string>
+
+</resources>
